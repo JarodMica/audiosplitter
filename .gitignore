@@ -1,0 +1,4 @@
+/audio_files
+*.exe
+*.wav
+.venv
