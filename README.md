@@ -7,7 +7,7 @@ When you run the exe or script, a file explorer window will pop up.  In this win
 **NOTE: IT WILL DELETE YOUR ORIGNAL AUDIO FILES SO MAKE SURE YOU HAVE COPIES OF THEM**
 
 #### EXE
-There is an exe version of it in the releases area, just go to the following link and download the source code (.zip) https://github.com/JarodMica/audiosplitter/releases
+There is an exe version of it in the releases area, just go to the following link and download the exe file: https://github.com/JarodMica/audiosplitter/releases
 
 If you're using the exe, your anti-virus may block it due to being an unknown exe file, you just have to allow it or use the python script version of it.
 
