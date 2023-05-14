@@ -1,4 +1,6 @@
 /audio_files
+/build
+*.spec
 *.exe
 *.wav
 .venv
