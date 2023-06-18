@@ -1,6 +1,8 @@
 # audiosplitter
 A simple audio splitter for audio files, specifically designed for usage with so-vits-svc to split audio files into 10 seconds or less. This is to prevent VRAM out of memory issues.
 
+For this to work, **you MUST have the audio files in .wav format**
+
 ## How to use it
 When you run the exe or script, a file explorer window will pop up.  In this window, you want to select the audio files folder where your files are located.  It will then run through all of them, split them, and then output them in that same folder with incremental suffixes on them based on how long the audio file was.
 
