@@ -4,3 +4,4 @@
 *.exe
 *.wav
 .venv
+venv
